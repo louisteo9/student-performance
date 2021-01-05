@@ -9,8 +9,21 @@ This workbook demonstrates how the entire machine learning workflow is applied f
 
 
 
-
 The goal of this workbook is to let you develop high-level intuition of the entire machine learning process, which is extremely important but often overlooked.
 
 The entire model training will be performed using Jupyter Notebook.
+
+## File Description
+Student Performance.ipynb -> Jupyter Notebook for model training<br/>
+student-mat.csv -> Student results on math course<br/>
+student.txt -> Attributes for student-mat.csv (Math course)<br/>
+
+## Python Libraries Used
+numpy, pandas, matplotlib, seaborn, sklearn
+
+## Insights & Analysis
+Random Forest algorithm works well out-of-the-box without tuning on hyperparameters.
+
+## Reference:
+Machine Learning Accelerator by EliteDataScience 
 
