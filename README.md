@@ -1,5 +1,5 @@
 # student-performance
-This databook develops model to predict student performance on math course in secondary education of two Portuguese schools. We will apply regression technique to the dataset.
+This databook develops model to predict student performance on math course in secondary education of two Portuguese schools.
 
 Dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
