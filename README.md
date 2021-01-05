@@ -5,7 +5,7 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
 This workbook demonstrates how the entire machine learning workflow is applied from start to finish. 
 
-You can read the post I published on The StartUp
+You can read the post I published on The StartUp<br/>
 https://medium.com/swlh/getting-started-with-machine-learning-for-newbies-b75f55f39ef6
 
 ## Exploratory Analysis >> Data Cleaning >> Feature Engineering >> Algorithm Selection >> Model Training
