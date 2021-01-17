@@ -14,7 +14,7 @@ This project aims to answer the top 3 questions that one curious about Machine L
 The entire model training will be performed using Jupyter Notebook.
 
 ## File Description
-**Student Performance.ipynb** -> Jupyter Notebook for model training<br/>
+**Student Performance.ipynb** -> Jupyter Notebook for step-by-step model training<br/>
 **student-mat.csv** -> Student results on math course<br/>
 **student.txt** -> Attributes for student-mat.csv (Math course)<br/>
 
