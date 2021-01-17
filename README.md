@@ -1,32 +1,26 @@
-# student-performance
-This databook develops model to predict student performance on math course in secondary education of two Portuguese schools.
+# Student Performance
+This notebook develops model to predict student performance on math course in secondary education using data science process known as CRISP-DM (Cross Industry Process for Data Mining).
 
 Dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance
-
-This workbook demonstrates how the entire machine learning workflow is applied from start to finish. 
 
 You can read the post I published on The StartUp<br/>
 https://medium.com/swlh/getting-started-with-machine-learning-for-newbies-b75f55f39ef6
 
-## Exploratory Analysis >> Data Cleaning >> Feature Engineering >> Algorithm Selection >> Model Training
-
-
-
-The goal of this workbook is to let you develop high-level intuition of the entire machine learning process, which is extremely important but often overlooked.
+This project aims to answer the top 3 questions that one curious about Machine Learning ofthen has:<br/>
+1. What is the overall Machine Learning workflow?<br/>
+2. How to apply Machine Learning model to a dataset?<br/>
+3. What is the best overall Machine Learning model that one can be applied to almost all dataset, and what are the tips to imporve overall model performance.
 
 The entire model training will be performed using Jupyter Notebook.
 
 ## File Description
-Student Performance.ipynb -> Jupyter Notebook for model training<br/>
-student-mat.csv -> Student results on math course<br/>
-student.txt -> Attributes for student-mat.csv (Math course)<br/>
+**Student Performance.ipynb** -> Jupyter Notebook for model training<br/>
+**student-mat.csv** -> Student results on math course<br/>
+**student.txt** -> Attributes for student-mat.csv (Math course)<br/>
 
 ## Python Libraries Used
 numpy, pandas, matplotlib, seaborn, sklearn
 
-## Insights & Analysis
-Random Forest algorithm works well out-of-the-box without tuning on hyperparameters.
-
 ## Reference:
-Machine Learning Accelerator by EliteDataScience 
+Machine Learning Accelerator by [EliteDataScience](https://elitedatascience.com/) 
 
