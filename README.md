@@ -1,10 +1,9 @@
 # Student Performance
 This notebook develops model to predict student performance on math course in secondary education using data science process known as CRISP-DM (Cross Industry Process for Data Mining).
 
-Dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance
+The dataset for this notebook can be downloaded [here](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
 
-You can read the post I published on The StartUp<br/>
-https://medium.com/swlh/getting-started-with-machine-learning-for-newbies-b75f55f39ef6
+You can read the post I published on The StartUp [here](https://medium.com/swlh/getting-started-with-machine-learning-for-newbies-b75f55f39ef6)<br/>
 
 This project aims to answer the top 3 questions that one curious about Machine Learning ofthen has:<br/>
 1. What is the overall Machine Learning workflow?<br/>
@@ -22,5 +21,4 @@ The entire model training will be performed using Jupyter Notebook.
 numpy, pandas, matplotlib, seaborn, sklearn
 
 ## Reference:
-Machine Learning Accelerator by [EliteDataScience](https://elitedatascience.com/) 
-
+Machine Learning Accelerator by [EliteDataScience](https://elitedatascience.com/)
